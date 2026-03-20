@@ -1,17 +1,17 @@
 # space-shooter-game
 This is a simple 2D space shooter game built using python
 
-##features-
+## Features
 Custom Spacship design
-collison detection
-score system
-limited lives
-resume feature with penalty
+Collison detection
+Score system
+Limited lives
+Resume feature with penalty
 
-## how to run
-1. install python
-2. install pygame: pip install pygame
-3. run the main file
+## How to run
+1. Install python
+2. Install pygame: pip install pygame
+3. Run the main file
 
 ## Author
 Ronald Ruban
